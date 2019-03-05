@@ -1,0 +1,26 @@
+# VSCode
+.vscode
+
+# WebStorm
+.idea
+
+# OSX
+.DS_Store
+
+# ESLint
+.eslintrc
+.eslintignore
+
+# yarn
+yarn-debug.log
+
+# Jest
+__tests__
+__mocks__
+fixtures
+
+# Example app
+example
+
+media
+.travis.yml

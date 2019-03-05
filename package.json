@@ -1,0 +1,27 @@
+{
+  "name": "vovo-juju-cli",
+  "description": "Falas da Vovó Juju no terminal",
+  "version": "1.0.2",
+  "author": {
+    "name": "Lucas Bento",
+    "email": "lucas.bsilva@outlook.com",
+    "url": "https://github.com/lucasbento"
+  },
+  "bin": {
+    "vovo-juju": "./bin/vovo-juju"
+  },
+  "bugs": "https://github.com/lucasbento/vovo-juju-cli/issues",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "homepage": "https://github.com/lucasbento/vovo-juju-cli#readme",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lucasbento/vovo-juju-cli"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
